@@ -1,0 +1,59 @@
+body{
+    font-size: 20px;
+    padding: 0;
+    margin: 1px;
+    line-height: 80%;
+    background-color: lavenderblush;
+}
+
+.content{
+    text-indent: 7.5rem;
+
+}
+
+img{
+    border: black solid;
+    border-radius: 140px;
+    height:300px ;
+    width: 280px;
+    margin-left: 20rem;
+}
+
+h1{
+    text-decoration: underline;
+    text-align: center;
+    padding: 12px;
+    color: darkolivegreen;
+}
+
+ul{
+    margin-left: 10px;
+    color: black;
+    line-height: 1.5;
+
+}
+
+.passion{
+    margin-top: 18px;
+}
+
+ol{
+    list-style-type: lower-alpha;
+    line-height: 1.5;
+
+}
+
+a{
+    color: blue;
+    cursor: pointer;
+}
+
+a:visited{
+    color: brown;
+}
+
+
+a:hover ,a:focus{
+    color: rgb(0, 102, 255);
+}
+
